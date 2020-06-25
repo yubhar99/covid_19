@@ -13,3 +13,4 @@ Insert  into Lomba Value ('','Afipah Sabrina');
 Select * from Lomba;
 Insert  into Lomba Value ('','Faisal Perdana');
 Select * from Lomba;  
+Select * from Lomba;  
