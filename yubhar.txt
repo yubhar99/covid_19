@@ -1,0 +1,17 @@
+Create Database KolurDb;
+Use KolurDb;
+Create table lomba (no_seri  int primary key Auto_increment, peserta VarChar(25));
+Desc Lomba;
+Insert  into Lomba Value ('', 'Lestari');
+Select * from Lomba;
+Insert  into Lomba Value ('','Bella Saudina');
+Select * from Lomba;
+Insert  into Lomba Value ('','Ari Untung');
+Select * from Lomba;
+Alter Table Lomba Auto_increment=30;
+Insert  into Lomba Value ('','Afipah Sabrina');
+Select * from Lomba;
+Insert  into Lomba Value ('','Faisal Perdana');
+Select * from Lomba; 
+
+Select * from Lomba; 
